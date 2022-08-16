@@ -1,14 +1,14 @@
 # First Lesson
 
-- UVA 11057 - [Exact Sum](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1998)
+- UVA 11057 - [Exact Sum](https://onlinejudge.org/external/110/11057.pdf)
 	- AC
-- UVA 11369 - [Shopaholic](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2354)
+- UVA 11369 - [Shopaholic](https://onlinejudge.org/external/113/11369.pdf)
 	- AC
-- UVA 10026 - [Shoemaker's Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=967)
+- UVA 10026 - [Shoemaker's Problem](https://onlinejudge.org/external/100/10026.pdf)
 	- AC
 - CCC 2012 S3 - [Absolutely Acidic](https://dmoj.ca/problem/ccc12s3)
 	- AC
-- UVA 13212 - [How many inversions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5135)
+- UVA 13212 - [How many inversions](https://onlinejudge.org/external/132/13212.pdf)
 	- TLE
 
 # Second Lesson
