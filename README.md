@@ -16,7 +16,7 @@
 - CF 1132B - [Discounts](https://codeforces.com/problemset/problem/1132/B)
 	- AC
 - CF 1015C - [Songs Compression](https://codeforces.com/problemset/problem/1015/C)
-	- Not yet attempted
+	- AC
 - CF 203C - [Photographer](https://codeforces.com/contest/203/problem/C)
 	- Not yet attempted
 - CF 492C - [Vanya and Exams](https://codeforces.com/contest/492/problem/C)
