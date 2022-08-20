@@ -14,7 +14,7 @@
 # Second Lesson
 
 - CF 1132B - [Discounts](https://codeforces.com/problemset/problem/1132/B)
-	- Not yet attempted
+	- AC
 - CF 1015C - [Songs Compression](https://codeforces.com/problemset/problem/1015/C)
 	- Not yet attempted
 - CF 203C - [Photographer](https://codeforces.com/contest/203/problem/C)
