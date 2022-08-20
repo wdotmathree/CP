@@ -18,8 +18,8 @@
 - CF 1015C - [Songs Compression](https://codeforces.com/problemset/problem/1015/C)
 	- AC
 - CF 203C - [Photographer](https://codeforces.com/contest/203/problem/C)
-	- Not yet attempted
+	- AC
 - CF 492C - [Vanya and Exams](https://codeforces.com/contest/492/problem/C)
-	- Not yet attempted
+	- AC
 - CCC S3 2017 - [Nailed it!](https://dmoj.ca/problem/ccc17s3)
 	- Not yet attempted
