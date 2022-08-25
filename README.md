@@ -21,5 +21,18 @@
 	- AC
 - CF 492C - [Vanya and Exams](https://codeforces.com/contest/492/problem/C)
 	- AC
-- CCC S3 2017 - [Nailed it!](https://dmoj.ca/problem/ccc17s3)
+- CCC 2017 S3 - [Nailed it!](https://dmoj.ca/problem/ccc17s3)
 	- AC
+
+# Third Lesson
+
+- CCC 2022 S3 - [Good Samples](https://dmoj.ca/problem/ccc22s3)
+	- Not attempted
+- CCC 2015 S3 - [Gates](https://dmoj.ca/problem/ccc15s3)
+	- Not attempted
+- CSES 1090 - [Ferris Wheel](https://cses.fi/problemset/task/1090)
+	- Not attempted
+- CSES 1090 - [Concert Tickets](https://cses.fi/problemset/task/1091)
+	- Not attempted
+- CSES 1619 - [Restaurant Customers](https://cses.fi/problemset/task/1619)
+	- Not attempted
