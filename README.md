@@ -22,4 +22,4 @@
 - CF 492C - [Vanya and Exams](https://codeforces.com/contest/492/problem/C)
 	- AC
 - CCC S3 2017 - [Nailed it!](https://dmoj.ca/problem/ccc17s3)
-	- Not yet submitted
+	- AC
