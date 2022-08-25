@@ -1,53 +1,44 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void merge(int *array, int l, int m, int r, int &inv) {
-	int i, j, k, nl, nr;
-	// size of left and right sub-arrays
-	nl = m - l + 1;
-	nr = r - m;
-	int larr[nl], rarr[nr];
-	// fill left and right sub-arrays
-	for (i = 0; i < nl; i++)
-		larr[i] = array[l + i];
-	for (j = 0; j < nr; j++)
-		rarr[j] = array[m + 1 + j];
-	i = 0;
-	j = 0;
-	k = l;
-	// marge temp arrays to real array
-	while (i < nl && j < nr) {
-		if (larr[i] <= rarr[j]) {
-			array[k] = larr[i];
+unsigned long long merge(int A[], int p, int q, int r) {
+	unsigned long long inv = 0;
+	int n1 = q - p + 1;
+	int n2 = r - q;
+	int L[n1 + 1];
+	int R[n2 + 1];
+	for (int i = 0; i < n1; i++) {
+		L[i] = A[p + i];
+	}
+	for (int j = 0; j < n2; j++) {
+		R[j] = A[q + j + 1];
+	}
+	L[n1] = INT_MAX;
+	R[n2] = INT_MAX;
+	int i = 0;
+	int j = 0;
+	for (int k = p; k <= r; k++) {
+		if (L[i] < R[j]) {
+			A[k] = L[i];
 			i++;
 		} else {
-			array[k] = rarr[j];
+			A[k] = R[j];
 			j++;
-			inv += (r - m - i);
+			inv += n1 - i;
 		}
-		k++;
 	}
-	while (i < nl) { // extra element in left array
-		array[k] = larr[i];
-		i++;
-		k++;
-	}
-	while (j < nr) { // extra element in right array
-		array[k] = rarr[j];
-		j++;
-		k++;
-	}
+	return inv;
 }
 
-void mergeSort(int *array, int l, int r, int &inv) {
-	int m;
-	if (l < r) {
-		int m = l + (r - l) / 2;
-		// Sort first and second arrays
-		mergeSort(array, l, m, inv);
-		mergeSort(array, m + 1, r, inv);
-		merge(array, l, m, r, inv);
+unsigned long long mergeSort(int A[], int p, int r) {
+	unsigned long long inv = 0;
+	if (p < r) {
+		int q = (p + r) / 2;
+		inv += mergeSort(A, p, q);
+		inv += mergeSort(A, q + 1, r);
+		inv += merge(A, p, q, r);
 	}
+	return inv;
 }
 
 int main() {
@@ -59,15 +50,11 @@ int main() {
 		cin >> a;
 		if (a == 0)
 			break;
-		int *arr = (int *)malloc(sizeof(int) * a);
+		int arr[a];
 		for (int i = 0; i < a; i++) {
-			int x;
-			cin >> x;
-			arr[i] = x;
+			cin >> arr[i];
 		}
-		int inv = 0;
-		mergeSort(arr, 0, a, inv);
-		free(arr);
+		unsigned long long inv = mergeSort(arr, 0, a);
 		cout << inv << '\n';
 	}
 	return 0;
