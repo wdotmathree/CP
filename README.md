@@ -27,9 +27,9 @@
 # Third Lesson
 
 - CCC 2022 S3 - [Good Samples](https://dmoj.ca/problem/ccc22s3)
-	- Not attempted
+	- On hold
 - CCC 2015 S3 - [Gates](https://dmoj.ca/problem/ccc15s3)
-	- Not attempted
+	- AC
 - CSES 1090 - [Ferris Wheel](https://cses.fi/problemset/task/1090)
 	- Not attempted
 - CSES 1090 - [Concert Tickets](https://cses.fi/problemset/task/1091)
