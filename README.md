@@ -35,4 +35,4 @@
 - CSES 1090 - [Concert Tickets](https://cses.fi/problemset/task/1091)
 	- TLE
 - CSES 1619 - [Restaurant Customers](https://cses.fi/problemset/task/1619)
-	- Not attempted
+	- AC
