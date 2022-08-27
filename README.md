@@ -31,7 +31,7 @@
 - CCC 2015 S3 - [Gates](https://dmoj.ca/problem/ccc15s3)
 	- AC
 - CSES 1090 - [Ferris Wheel](https://cses.fi/problemset/task/1090)
-	- Not attempted
+	- AC
 - CSES 1090 - [Concert Tickets](https://cses.fi/problemset/task/1091)
 	- Not attempted
 - CSES 1619 - [Restaurant Customers](https://cses.fi/problemset/task/1619)
