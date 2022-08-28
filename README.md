@@ -33,6 +33,6 @@
 - CSES 1090 - [Ferris Wheel](https://cses.fi/problemset/task/1090)
 	- AC
 - CSES 1090 - [Concert Tickets](https://cses.fi/problemset/task/1091)
-	- TLE
+	- AC
 - CSES 1619 - [Restaurant Customers](https://cses.fi/problemset/task/1619)
 	- AC
