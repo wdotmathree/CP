@@ -36,3 +36,22 @@
 	- AC
 - CSES 1619 - [Restaurant Customers](https://cses.fi/problemset/task/1619)
 	- AC
+
+# Fourth Lesson
+
+- CSES 1629 - [Movie Festival](https://cses.fi/problemset/task/1629)
+	- Not Attempted
+- CSES 1640 - [Sum of Two Values](https://cses.fi/problemset/task/1640)
+	- Not Attempted
+- CSES 1643 - [Maximum Subarray Sum](https://cses.fi/problemset/task/1643)
+	- Not Attempted
+- CSES 1074 - [Stick Lengths](https://cses.fi/problemset/task/1074)
+	- Not Attempted
+- CSES 2183 - [Missing Coin Sum](https://cses.fi/problemset/task/2183)
+	- Not Attempted
+- CSES 1092 - [Two Sets](https://cses.fi/problemset/task/1092)
+	- Not Attempted
+- CSES 2216 - [Collecting Numbers](https://cses.fi/problemset/task/2216)
+	- Not Attempted
+- CSES 1755 - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
+	- Not Attempted
