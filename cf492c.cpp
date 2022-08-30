@@ -1,3 +1,13 @@
+/*
+	Since the average is weighted evenly, we can greedily choose the exams to write essays for
+	And since an unweighted average is the sum of points on every exam divided by the number of exams, we can multiply it by the number of
+	exams to get a total number of points necessary to get the scholarship
+	We can sort the exams in ascending order by how many essays to write for a 1 point increase and repeatedly write essays until the
+	max number of points for that exam is reached
+	In practice, we can take the minimum of number of essays to max out the points and the number of essays to get the scholarship
+	if we only write essays for that exam and jump by adding the number of essays until either of those 2 things happen
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
