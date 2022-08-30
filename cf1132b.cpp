@@ -1,6 +1,4 @@
 /*
-	Sort the array (a) of costs of chocolate bars in descending order
-	Calculate the sum of the cost of all chocolate bars
 	The most optimal way to use a coupon is to purchase the most expensive items with that coupon
 	In that case, the least expensive of the group will be given for free
 	For example:

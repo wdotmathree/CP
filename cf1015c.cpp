@@ -1,6 +1,6 @@
 /*
-	Store the uncompressed and compressed sizes in a pair
-	Sort the list of songs based on bytes saved by compressing it in descending order
+	Since we only care about compressing the least amount of songs possible, we can greedily select the songs
+	We sort the list of songs based on bytes saved by compressing it in descending order
 		i.e. The song that will save the most space when compressed goes first
 	Set the default ans to -1 as if it is impossible to fit all the songs on the flash drive the ans will not be modified
 	First check if the songs can fit without compression and if it can, set the ans to 0
