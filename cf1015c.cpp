@@ -1,3 +1,13 @@
+/*
+	Store the uncompressed and compressed sizes in a pair
+	Sort the list of songs based on bytes saved by compressing it in descending order
+		i.e. The song that will save the most space when compressed goes first
+	Set the default ans to -1 as if it is impossible to fit all the songs on the flash drive the ans will not be modified
+	First check if the songs can fit without compression and if it can, set the ans to 0
+	If songs have to be compressed, iterate through the list of songs and compress each one until under the storage limit
+	Keep track of how many songs have been compressed and once under the storage limit, set ans to the number of songs compressed
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
