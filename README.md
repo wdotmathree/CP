@@ -44,7 +44,7 @@
 - CSES 1640 - [Sum of Two Values](https://cses.fi/problemset/task/1640)
 	- AC
 - CSES 1643 - [Maximum Subarray Sum](https://cses.fi/problemset/task/1643)
-	- Not Attempted
+	- AC
 - CSES 1074 - [Stick Lengths](https://cses.fi/problemset/task/1074)
 	- Not Attempted
 - CSES 2183 - [Missing Coin Sum](https://cses.fi/problemset/task/2183)
