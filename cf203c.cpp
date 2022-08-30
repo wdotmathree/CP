@@ -1,3 +1,11 @@
+/*
+	Since we only care about the number of clients Valera can serve, we can greedily select the clients
+	We sort the clients in ascending order by how much memory Valera needs to use to serve them
+	We iterate through the clients and serve each of them, keeping track of the memory used
+	When we don't have enough memory to serve the client, print the clients successfully served
+	Otherwise, if we got through all clients, print all clients
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
