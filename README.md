@@ -54,4 +54,4 @@
 - CSES 2216 - [Collecting Numbers](https://cses.fi/problemset/task/2216)
 	- AC
 - CSES 1755 - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
-	- Not Attempted
+	- AC
