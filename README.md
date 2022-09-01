@@ -40,7 +40,7 @@
 # Fourth Lesson
 
 - CSES 1629 - [Movie Festival](https://cses.fi/problemset/task/1629)
-	- Not Attempted
+	- AC
 - CSES 1640 - [Sum of Two Values](https://cses.fi/problemset/task/1640)
 	- AC
 - CSES 1643 - [Maximum Subarray Sum](https://cses.fi/problemset/task/1643)
