@@ -52,6 +52,6 @@
 - CSES 1092 - [Two Sets](https://cses.fi/problemset/task/1092)
 	- Not Attempted
 - CSES 2216 - [Collecting Numbers](https://cses.fi/problemset/task/2216)
-	- Not Attempted
+	- AC
 - CSES 1755 - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 	- Not Attempted
