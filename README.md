@@ -46,7 +46,7 @@
 - CSES 1643 - [Maximum Subarray Sum](https://cses.fi/problemset/task/1643)
 	- AC
 - CSES 1074 - [Stick Lengths](https://cses.fi/problemset/task/1074)
-	- Not Attempted
+	- AC
 - CSES 2183 - [Missing Coin Sum](https://cses.fi/problemset/task/2183)
 	- Not Attempted
 - CSES 1092 - [Two Sets](https://cses.fi/problemset/task/1092)
