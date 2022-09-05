@@ -41,4 +41,5 @@ int main() {
 		sum += jump;
 	}
 	cout << essays << endl;
+	return 0;
 }

@@ -26,4 +26,5 @@ int main() {
 		r--;
 	}
 	cout << ans + n - ans * 2 << endl;
+	return 0;
 }

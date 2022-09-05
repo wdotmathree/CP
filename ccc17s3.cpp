@@ -35,4 +35,5 @@ int main() {
 			break;
 	}
 	cout << prev << ' ' << ans << endl;
+	return 0;
 }
