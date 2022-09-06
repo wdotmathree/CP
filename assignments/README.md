@@ -48,9 +48,9 @@
 - CSES 1074 - [Stick Lengths](https://cses.fi/problemset/task/1074)
 	- AC
 - CSES 2183 - [Missing Coin Sum](https://cses.fi/problemset/task/2183)
-	- Not Attempted
+	- AC
 - CSES 1092 - [Two Sets](https://cses.fi/problemset/task/1092)
-	- Not Attempted
+	- AC
 - CSES 2216 - [Collecting Numbers](https://cses.fi/problemset/task/2216)
 	- AC
 - CSES 1755 - [Palindrome Reorder](https://cses.fi/problemset/task/1755)

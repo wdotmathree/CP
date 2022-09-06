@@ -40,4 +40,5 @@ int main() {
 		else
 			cout << endl;
 	}
+	return 0;
 }

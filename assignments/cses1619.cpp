@@ -30,4 +30,5 @@ int main() {
 		}
 	}
 	cout << maxnum << endl;
+	return 0;
 }
