@@ -55,3 +55,25 @@
 	- AC
 - CSES 1755 - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 	- AC
+
+# Fifth Lesson
+
+- CCC 2021 S3 - [Lunch Concert](https://dmoj.ca/problem/ccc21s3)
+	- AC
+- CCC 2010 S3 - [Firehose](https://dmoj.ca/problem/ccc10s3)
+	- On hold
+- CSES 1631 - [Reading Books](https://cses.fi/problemset/task/1631/)
+	- Not yet attempted
+
+# Sixth Lesson
+
+- CSES 1095 - [Exponentiation](https://cses.fi/problemset/task/1095/)
+	- Not yet attempted
+- CSES 2431 - [Digit Queries](https://cses.fi/problemset/task/2431/)
+	- Not yet attempted
+- CSES 1662 - [Subarray Divisibility](https://cses.fi/problemset/task/1662)
+	- Not yet attempted
+- CSES 2164 - [Josephus Queries](https://cses.fi/problemset/task/2164)
+	- Not yet attempted
+- CSES 1081 - [Common Divisors](https://cses.fi/problemset/task/1081/)
+	- Not yet attempted
