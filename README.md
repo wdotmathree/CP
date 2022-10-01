@@ -70,7 +70,7 @@
 - CSES 1095 - [Exponentiation](https://cses.fi/problemset/task/1095/)
 	- AC
 - CSES 2431 - [Digit Queries](https://cses.fi/problemset/task/2431/)
-	- Not yet attempted
+	- On hold
 - CSES 1662 - [Subarray Divisibility](https://cses.fi/problemset/task/1662)
 	- Not yet attempted
 - CSES 2164 - [Josephus Queries](https://cses.fi/problemset/task/2164)
