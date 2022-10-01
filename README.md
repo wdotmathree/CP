@@ -68,7 +68,7 @@
 # Sixth Lesson
 
 - CSES 1095 - [Exponentiation](https://cses.fi/problemset/task/1095/)
-	- Not yet attempted
+	- AC
 - CSES 2431 - [Digit Queries](https://cses.fi/problemset/task/2431/)
 	- Not yet attempted
 - CSES 1662 - [Subarray Divisibility](https://cses.fi/problemset/task/1662)
