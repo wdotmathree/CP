@@ -2,11 +2,10 @@
 using namespace std;
 vector<tuple<int, int, int>> a;
 
-long long walk(int p) {
-	long long ans = 0;
-	for (int i = 0; i < a.size(); i++) {
-		long long sum = max(0, abs(p - get<0>(a[i])) - get<2>(a[i]));
-		ans += sum * get<1>(a[i]);
+unsigned long long walk(int p) {
+	unsigned long long ans = 0;
+	for (long unsigned int i = 0; i < a.size(); i++) {
+		ans += (unsigned long long)(max(0, abs(p - get<0>(a[i])) - get<2>(a[i]))) * get<1>(a[i]);
 	}
 	return ans;
 }
@@ -19,7 +18,8 @@ int main() {
 	cin >> n;
 	a.reserve(n);
 	int x, y, z;
-	int l, r;
+	int l = INT_MAX;
+	int r = INT_MIN;
 	for (int i = 0; i < n; i++) {
 		cin >> x >> y >> z;
 		l = min(l, x);
@@ -29,9 +29,7 @@ int main() {
 	int m;
 	while (l < r) {
 		m = (l + r) / 2;
-		long long sum = walk(m);
-		long long sum2 = walk(m + 1);
-		if (sum < sum2) {
+		if (walk(m) < walk(m + 1)) {
 			r = m;
 		} else {
 			l = m + 1;
