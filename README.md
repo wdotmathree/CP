@@ -85,7 +85,7 @@
 - CSES 1085 - [Array Division](https://cses.fi/problemset/task/1085)
 	- Not yet attempted
 - CSES 1712 - [Exponentiation II](https://cses.fi/problemset/task/1712)
-	- Not yet attempted
+	- AC
 - CSES 1716 - [Distributing Apples](https://cses.fi/problemset/task/1716)
 	- Not yet attempted
 - CSES 1622 - [Creating Strings](https://cses.fi/problemset/task/1622)
