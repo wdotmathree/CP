@@ -74,6 +74,6 @@
 - CSES 1662 - [Subarray Divisibility](https://cses.fi/problemset/task/1662)
 	- Not yet attempted
 - CSES 2164 - [Josephus Queries](https://cses.fi/problemset/task/2164)
-	- Not yet attempted
+	- On hold
 - CSES 1081 - [Common Divisors](https://cses.fi/problemset/task/1081/)
 	- Not yet attempted
