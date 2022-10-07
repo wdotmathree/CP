@@ -90,3 +90,16 @@
 	- AC
 - CSES 1622 - [Creating Strings](https://cses.fi/problemset/task/1622)
 	- AC
+
+# Eighth Lesson
+
+- CCC 2014 S3 - [The Geneva Confection](https://dmoj.ca/problem/ccc14s3)
+	- Not yet attempted
+- CCC 2013 S3 - [Chances of Winning](https://dmoj.ca/problem/ccc13s3)
+	- Not yet attempted
+- CSES 1630 - [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
+	- Not yet attempted
+- CSES 2165 - [Towers of Hanoi](https://cses.fi/problemset/task/2165)
+	- Not yet attempted
+- CSES 1632 - [Movie Festival II](https://cses.fi/problemset/task/1632)
+	- Not yet attempted
