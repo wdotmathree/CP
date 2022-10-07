@@ -89,3 +89,4 @@
 - CSES 1716 - [Distributing Apples](https://cses.fi/problemset/task/1716)
 	- Not yet attempted
 - CSES 1622 - [Creating Strings](https://cses.fi/problemset/task/1622)
+	- Not yet attempted
