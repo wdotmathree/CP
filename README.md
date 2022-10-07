@@ -94,7 +94,7 @@
 # Eighth Lesson
 
 - CCC 2014 S3 - [The Geneva Confection](https://dmoj.ca/problem/ccc14s3)
-	- Not yet attempted
+	- AC
 - CCC 2013 S3 - [Chances of Winning](https://dmoj.ca/problem/ccc13s3)
 	- Not yet attempted
 - CSES 1630 - [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
