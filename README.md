@@ -100,6 +100,6 @@
 - CSES 1630 - [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
 	- Not yet attempted
 - CSES 2165 - [Towers of Hanoi](https://cses.fi/problemset/task/2165)
-	- Not yet attempted
+	- AC
 - CSES 1632 - [Movie Festival II](https://cses.fi/problemset/task/1632)
 	- Not yet attempted
