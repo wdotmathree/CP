@@ -126,7 +126,7 @@
 - CSES 1667 - [Message Route](https://cses.fi/problemset/task/1667)
 	- AC
 - CSES 1131 - [Tree Diameter](https://cses.fi/problemset/task/1131)
-	- Not yet attempted
+	- AC
 - CSES 1192 - [Movie Festival II](https://cses.fi/problemset/task/1192)
 	- Not yet attempted
 
