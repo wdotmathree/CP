@@ -63,7 +63,7 @@
 - CCC 2010 S3 - [Firehose](https://dmoj.ca/problem/ccc10s3)
 	- On hold
 - CSES 1631 - [Reading Books](https://cses.fi/problemset/task/1631/)
-	- Not yet attempted
+	- WA
 
 # Sixth Lesson
 
