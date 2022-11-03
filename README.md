@@ -103,3 +103,42 @@
 	- AC
 - CSES 1632 - [Movie Festival II](https://cses.fi/problemset/task/1632)
 	- Not yet attempted
+
+# Ninth Lesson
+
+- CSES 1753 - [String Matching](https://cses.fi/problemset/task/1753)
+	- Not yet attempted
+- CSES 1141 - [Playlist](https://cses.fi/problemset/task/1141)
+	- Not yet attempted
+- CSES 2428 - [Subarray Distinct Values](https://cses.fi/problemset/task/2428)
+	- Not yet attempted
+- CCC 1997 S4 - [Dynamic Dictionary Coding](https://dmoj.ca/problem/ccc97s4)
+	- Not yet attempted
+- CCC 1996 S3 - [Pattern Generator](https://dmoj.ca/problem/ccc96s3)
+	- Not yet attempted
+
+# Tenth Lesson
+
+- CSES 1193 - [Labyrinth](https://cses.fi/problemset/task/1193)
+	- Not yet attempted
+- CSES 1666 - [Building Roads](https://cses.fi/problemset/task/1666)
+	- Not yet attempted
+- CSES 1667 - [Message Route](https://cses.fi/problemset/task/1667)
+	- Not yet attempted
+- CSES 1131 - [Tree Diameter](https://cses.fi/problemset/task/1131)
+	- Not yet attempted
+- CSES 1192 - [Movie Festival II](https://cses.fi/problemset/task/1192)
+	- Not yet attempted
+
+# Eleventh Lesson
+
+- CCC 2009 S3 - [Degrees of Separation](https://dmoj.ca/problem/ccc09s3)
+	- Not yet attempted
+- CCC 2008 S3 - [Maze](https://dmoj.ca/problem/ccc08s3)
+	- Not yet attempted
+- CCC 2007 S3 - [Friends](https://dmoj.ca/problem/ccc07s3)
+	- Not yet attempted
+- CSES 1073 - [Towers](https://cses.fi/problemset/task/1073)
+	- Not yet attempted
+- CSES 1163 - [Traffic Lights](https://cses.fi/problemset/task/1163)
+	- Not yet attempted
