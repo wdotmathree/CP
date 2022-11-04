@@ -128,7 +128,7 @@
 - CSES 1131 - [Tree Diameter](https://cses.fi/problemset/task/1131)
 	- AC
 - CSES 1192 - [Counting Rooms](https://cses.fi/problemset/task/1192)
-	- Not yet attempted
+	- AC
 
 # Eleventh Lesson
 
