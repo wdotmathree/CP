@@ -137,7 +137,7 @@
 - CCC 2008 S3 - [Maze](https://dmoj.ca/problem/ccc08s3)
 	- AC
 - CCC 2007 S3 - [Friends](https://dmoj.ca/problem/ccc07s3)
-	- Not yet attempted
+	- AC
 - CSES 1073 - [Towers](https://cses.fi/problemset/task/1073)
 	- Not yet attempted
 - CSES 1163 - [Traffic Lights](https://cses.fi/problemset/task/1163)
