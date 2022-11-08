@@ -133,7 +133,7 @@
 # Eleventh Lesson
 
 - CCC 2009 S3 - [Degrees of Separation](https://dmoj.ca/problem/ccc09s3)
-	- Not yet attempted
+	- AC
 - CCC 2008 S3 - [Maze](https://dmoj.ca/problem/ccc08s3)
 	- Not yet attempted
 - CCC 2007 S3 - [Friends](https://dmoj.ca/problem/ccc07s3)
