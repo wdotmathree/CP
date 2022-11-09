@@ -141,7 +141,7 @@
 - CSES 1073 - [Towers](https://cses.fi/problemset/task/1073)
 	- AC
 - CSES 1163 - [Traffic Lights](https://cses.fi/problemset/task/1163)
-	- Not yet attempted
+	- TLE
 
 # Lesson Twelve
 
