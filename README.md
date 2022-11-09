@@ -148,7 +148,7 @@
 - CCC 2003 S3 - [Floor Plan](https://dmoj.ca/problem/ccc03s3)
 	- Not yet attempted
 - CSES 2162 - [Josephus Problem I](https://cses.fi/problemset/task/2162/)
-	- Not yet attempted
+	- AC
 - CSES 2168 - [Nested Ranges Check](https://cses.fi/problemset/task/2168/)
 	- Not yet attempted
 - CSES 1164 - [Room Allocation](https://cses.fi/problemset/task/1164)
